@@ -16,7 +16,7 @@ dependencies:
   bilgi_motoru:
     git:
       url: https://github.com/taktemurr-ops/bilgi-motoru
-      ref: main
+      ref: 418d258feb28d8131d9478be8bd5ac31959e9e96
 
 dev_dependencies:
   flutter_test:
